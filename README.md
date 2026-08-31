@@ -19,14 +19,7 @@
 
 ---
 
-# 🎮 GitHub Fun Zone (Neon Edition)
-
-<div align="center">
-
-  <!-- Chicken GIF -->
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="600" />
-  <br/><strong>🐔 My GitHub activity runs like a chicken!</strong>
-
+# <div class="tenor-gif-embed" data-postid="21103419" data-share-method="host" data-aspect-ratio="0.971875" data-width="100%"><a href="https://tenor.com/view/rick-roll-gif-21103419">Rick Roll GIF</a>from <a href="https://tenor.com/search/rick+roll-gifs">Rick Roll GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <hr/>
 </div>
 
