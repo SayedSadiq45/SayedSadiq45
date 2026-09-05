@@ -19,10 +19,21 @@
 
 ---
 
-# 🎮 GitHub Fun Zone (Neon Edition)
+⚡ **Fun Facts**
+
+- Built a blockchain To-Do App — and actually used it 😂  
+- My GitHub graph is basically my second heartbeat  
+- I blend UI artistry with backend logic
+
+---
+
+<div align="center"># 🎬 Featured Video
 
 <div align="center">
+  <img src="./assets/my-video.gif" width="700" />
+</div>
 
+---
   <!-- Chicken GIF -->
   <img src="https://media1.tenor.com/m/Q5xdMAdZuw4AAAAd/rick-roll.gif" width="250" />
   <br/><strong>🐔 My GitHub activity runs like a chicken!</strong>
