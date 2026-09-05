@@ -24,7 +24,7 @@
 <div align="center">
 
   <!-- Chicken GIF -->
-  <img src="https://web.whatsapp.com/161c1f04-c384-4eaf-9cd9-f0fd60555adf" width="300" />
+  <video src="https://drive.usercontent.google.com/download?id=1o_jEhGgOfYE-vfoXp75EjRlrht_yElyr&export=download&authuser=0" width="100%" controls></video>
   <img src="https://media1.tenor.com/m/Q5xdMAdZuw4AAAAd/rick-roll.gif" width="300" />
   <br/><strong>🐔 My GitHub activity runs like a chicken!</strong>
 
