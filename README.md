@@ -25,7 +25,7 @@
 
   <!-- Chicken GIF -->
  <div align="center">
-  <img src="https://i.giphy.com/FvRJyzDXvAlR4ngbL3.mp4" width="250" />
+  <video src="https://i.giphy.com/FvRJyzDXvAlR4ngbL3.mp4" width="100%" controls></video>
 </div>
   <br/><strong>🐔 My GitHub activity runs like a chicken!</strong>
 
