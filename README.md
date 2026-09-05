@@ -19,21 +19,16 @@
 
 ---
 
-# 🎬 Featured Video
-
 <div align="center">
+
+  <!-- Your GIF -->
   <img
     src="./my-video.gif"
-    width="250"
-    alt="Sayed Sadiq Featured Video"
+    width="400"
+    alt="Sayed Sadiq Featured GIF"
   />
-</div>
 
----
-
-# 🎮 GitHub Fun Zone — Neon Edition
-
-<div align="center">
+  &nbsp;&nbsp;&nbsp;
 
   <!-- Chicken GIF -->
   <img
@@ -42,11 +37,9 @@
     alt="Chicken GIF"
   />
 
-  <br/>
+  <br/><br/>
 
   <strong>🐔 My GitHub activity runs like a chicken!</strong>
-
-  <hr/>
 
 </div>
 
