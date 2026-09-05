@@ -24,7 +24,6 @@
 <div align="center">
 
   <!-- Chicken GIF -->
-  <video src="https://storage.googleapis.com/misc-screenapp-production/temp/oN9H8NXAfdtt6MbF2YsyZ/ID%20card%20video.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=GOOG1EINEQV5X2QGY62PSZMBMUR7IGGVLKNDB6ABP5GL6O6FKO76DWA2IE3SB%2F20260905%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260905T124016Z&X-Amz-Expires=900&X-Amz-Signature=3e48f4e7dd1b3c802d183ffc660aced83f8f60789a7658fc9e79ff2fd345378d&X-Amz-SignedHeaders=host&x-id=GetObject" width="100%" controls autoplay loop muted></video>
   <img src="https://media1.tenor.com/m/Q5xdMAdZuw4AAAAd/rick-roll.gif" width="300" />
   <br/><strong>🐔 My GitHub activity runs like a chicken!</strong>
 
