@@ -30,7 +30,7 @@
 <div align="center"># 🎬 Featured Video
 
 <div align="center">
-  <img src="./assets/my-video.gif" width="700" />
+  <img src="./assets/my-video.gif" width="250" />
 </div>
 
 ---
