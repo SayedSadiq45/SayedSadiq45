@@ -4,7 +4,7 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBtaTZtbTVwdXcybzk0ZXI3YWV4dmViZTFzczJyOG1raWV4aHkzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcfvrDJQzXDt9idtB6/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sayed%20Sadiq&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Web3%20Developer%20|%20Next.js%20Engineer%20|%20Tech%20Labs%20Builder&descSize=27&descAlignY=85&section=header" />
 </p>
 
 <!-- Typing SVG -->
@@ -24,9 +24,7 @@
 <div align="center">
 
   <!-- Chicken GIF -->
- <div align="center">
- <img src="https://media1.tenor.com/m/Q5xdMAdZuw4AAAAd/rick-roll.gif" width="250" />
-</div>
+  <img src="https://media1.tenor.com/m/Q5xdMAdZuw4AAAAd/rick-roll.gif" width="250" />
   <br/><strong>🐔 My GitHub activity runs like a chicken!</strong>
 
   <hr/>
