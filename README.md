@@ -24,7 +24,9 @@
 <div align="center">
 
   <!-- Chicken GIF -->
- 
+ <div align="center">
+  <img src="https://s3.ezgif.com/tmp/ezgif-373c71d25e6fb701.gif" width="450" />
+</div>
   <br/><strong>🐔 My GitHub activity runs like a chicken!</strong>
 
   <hr/>
