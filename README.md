@@ -24,7 +24,7 @@
 <div align="center">
   <img
     src="./my-video.gif"
-    width="700"
+    width="250"
     alt="Sayed Sadiq Featured Video"
   />
 </div>
