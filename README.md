@@ -27,19 +27,24 @@
 
 ---
 
-<div align="center"># 🎬 Featured Video
+---
+
+# 🎬 Featured Video
 
 <div align="center">
-  <img src="./assets/my-video.gif" width="250" />
+  <img src="./assets/my-video.gif" width="700" />
 </div>
 
 ---
+
+<div align="center">
   <!-- Chicken GIF -->
   <img src="https://media1.tenor.com/m/Q5xdMAdZuw4AAAAd/rick-roll.gif" width="250" />
-  <br/><strong>🐔 My GitHub activity runs like a chicken!</strong>
-
-  <hr/>
+  <br/>
+  <strong>🐔 My GitHub activity runs like a chicken!</strong>
 </div>
+
+---
 
 ---
 
