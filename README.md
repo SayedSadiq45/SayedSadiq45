@@ -24,7 +24,7 @@
   <!-- Your GIF -->
   <img
     src="./my-video.gif"
-    width="400"
+    width="250"
     alt="Sayed Sadiq Featured GIF"
   />
 
