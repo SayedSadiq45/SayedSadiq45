@@ -25,7 +25,7 @@
 
   <!-- Chicken GIF -->
  <div align="center">
-  <img src="https://s3.ezgif.com/tmp/ezgif-373c71d25e6fb701.gif" width="450" />
+  <img src="https://tenor.googleapis.com/v2/media?id=1764008743332276555&format=optimizedgif&client_key=tenor_web&appversion=browser-r260623-1&access_token=ya29.a0AdMD6Eg4Slk9_Tl33xREVeoOQP5WRXjdcqLyAlAmWLiGCipjFuFMQl-7eUN4EYXcBXvS_uXreIZeYwbNH-6yAHUA75jIRM177adwF_pDir-UOiGfoILGlT7r_IIynXnOGnSQU26vkyo5kxY2AdxfkDMITix3H0g1XAfLRfDONEEDQbtx9oh6vtMZcsNwuXMVM400uiFr6ASVqe7S0rGnA5EaCTjq865rYwoOZbgJ7DiIn2_p_Fh6VmevT29qQFfTxOKHR8qEJ0YblLDx4nnV3vLzFKEaCgYKAZYSARYSFQHGX2MiWofBdCac4U55Rl6GzCGEEg0290&key=AIzaSyCZt6SSh5VgVPzD9fhyzG1DprdPRhtoaR4" width="450" />
 </div>
   <br/><strong>🐔 My GitHub activity runs like a chicken!</strong>
 
