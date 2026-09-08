@@ -1,45 +1,36 @@
 <!-- =========================
-     Sayed Sadiq — Neon Web3 README
+    Sayed Sadiq — Creative Technology Portfolio
      ========================= -->
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sayed%20Sadiq&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Web3%20Developer%20|%20Next.js%20Engineer%20|%20Tech%20Labs%20Builder&descSize=27&descAlignY=85&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sayed%20Sadiq&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Creative%20Developer%20|%20Full-Stack%20Engineer%20|%20Digital%20Experience%20Builder&descSize=25&descAlignY=85&section=header" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&center=true&vCenter=true&width=780&height=60&lines=🚀+Web3+Developer+•+Full-Stack+Engineer+•+UI/UX+Nerd;Building+decentralized+futures,+one+commit+at+a+time.;👨‍💻+Deploying+Neon+Web3+magic" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&center=true&vCenter=true&width=780&height=60&lines=🚀+Creative+Developer+•+Full-Stack+Engineer+•+UI/UX+Thinker;Turning+ideas+into+immersive+digital+experiences.;👨‍💻+Designing+interfaces+with+logic,+motion,+and+character" />
 </p>
 
 <div align="center">
-  🚀 <strong>Web3 Developer • Full-Stack Engineer • UI/UX Nerd</strong><br/>
-  <em>“Building decentralized futures, one commit at a time.”</em>
+  🚀 <strong>Creative Developer • Full-Stack Engineer • UI/UX Thinker</strong><br/>
+  <em>“I build digital experiences where engineering becomes expression.”</em>
 </div>
 
 ---
 
 <div align="center">
 
-  <!-- Your GIF -->
+  <!-- Featured visual -->
   <img
     src="./my-video.gif"
     width="250"
-    alt="Sayed Sadiq Featured GIF"
+    alt="Sayed Sadiq featured visual"
   />
 
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Chicken GIF -->
-  <img
-    src="https://media1.tenor.com/m/Q5xdMAdZuw4AAAAd/rick-roll.gif"
-    width="250"
-    alt="Chicken GIF"
-  />
-
-  <br/><br/>
-
-  <strong>🐔 My GitHub activity runs like a chicken!</strong>
+  <strong>Building thoughtful interfaces, expressive worlds, and useful experiments.</strong>
 
 </div>
 
@@ -47,7 +38,11 @@
 
 # 💫 About Me
 
-🔭 **Currently Building**
+I am **Sayed Sadiq**, a developer who enjoys working at the intersection of software engineering, visual design, and interactive storytelling. I care about the details that make a product feel memorable: a clear idea, a considered interface, responsive motion, and code that can carry the vision.
+
+My work moves between full-stack applications, Web3 experiments, creative frontend engineering, and immersive themed websites. I learn by building, refine by testing, and treat every project as a chance to make the web more expressive.
+
+🔭 **Currently Exploring**
 
 - 🛠️ **Tech Labs Hub – Web3 Tools & Experiments**  
   ➤ https://tech-labs-hub.vercel.app/web3
@@ -63,32 +58,53 @@
 
 ---
 
+# 🌌 Featured Digital Worlds
+
+> A collection of live experiments in character, atmosphere, 3D presentation, and frontend craft.
+
+| Project | What it explores | Live experience |
+|:--|:--|:--:|
+| **Naruto Sage Mode** | A cinematic themed interface inspired by transformation, focus, and power. | [Visit](https://narutosagemode.vercel.app/) |
+| **Zoro: King of Hell** | A bold character experience built around intensity, motion, and visual identity. | [Visit](https://zoro-king-of-hell-pied.vercel.app/) |
+| **Itachi** | An atmospheric tribute that turns storytelling into an interactive web composition. | [Visit](https://itachi-phi.vercel.app/) |
+| **One Piece 3D** | An immersive 3D-inspired exploration of world-building on the web. | [Visit](https://one-piece-3-d-website.vercel.app/) |
+| **Minato** | A fast, focused character showcase shaped by speed and precision. | [Visit](https://minato-sayed-sadiq.vercel.app/) |
+| **JJK: Sukuna** | A dark, high-energy visual study of presence, tension, and interface composition. | [Visit](https://jjk-sakuna-sayed-sadiq.vercel.app/) |
+
+### What these builds represent
+
+- **Inventive frontend engineering:** expressive layouts, responsive systems, and purposeful motion.
+- **Visual intelligence:** translating a character or mood into hierarchy, color, pacing, and interaction.
+- **Technical curiosity:** exploring React, Next.js, Three.js, WebGL, and modern deployment workflows.
+- **A builder's mindset:** shipping ideas as working experiences instead of leaving them as sketches.
+
+---
+
 👥 **Looking to Collaborate On**
 
-- Web3 protocols, dApps, decentralized apps
-- Next.js / React frontend systems
-- Developer dashboards & tools
-- Hackathons — deployment > sleep
+- Web3 protocols, dApps, and developer tools
+- Next.js / React frontend systems with strong visual direction
+- Interactive 3D experiences and creative technology
+- Hackathons, ambitious prototypes, and ideas worth shipping
 
 ---
 
 💛 **I Can Help With**
 
-- Smart contract architecture
-- Web3 UX & modern UI
-- CI/CD pipelines
-- Large-scale frontend optimization
+- Product-minded frontend architecture
+- Web3 UX and modern interface systems
+- Interactive storytelling and visual prototyping
+- CI/CD pipelines and frontend performance
 
 ---
 
 🌱 **Currently Learning**
 
-- Solidity & Smart Contracts
-- Advanced React patterns
-- Next.js 14 App Router
-- Ethers.js / Web3.js
-- Massive-scale state management
-- Web3 deployment strategies
+- Solidity, smart contracts, and decentralized architecture
+- Advanced React patterns and Next.js App Router
+- Three.js, WebGL, and real-time interaction
+- Ethers.js / Web3.js and Web3 deployment strategies
+- Scalable state management and frontend performance
 
 ---
 
@@ -103,8 +119,8 @@
 
 ⚡ **Fun Facts**
 
-- Built a blockchain To-Do App — and actually used it 😂
-- My GitHub graph is basically my second heartbeat
+- Built a blockchain To-Do App and actually used it
+- I use fictional worlds to practice real product thinking
 - I blend UI artistry with backend logic
 
 ---
