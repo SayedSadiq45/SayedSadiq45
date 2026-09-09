@@ -2,47 +2,53 @@
     Sayed Sadiq — Creative Technology Portfolio
      ========================= -->
 
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sayed%20Sadiq&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Creative%20Developer%20|%20Full-Stack%20Engineer%20|%20Digital%20Experience%20Builder&descSize=25&descAlignY=85&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07131a,45:123f4a,100:f05a47&height=210&section=header&text=SAYED%20SADIQ&fontSize=58&fontColor=f7f0df&fontAlignY=42&animation=twinkling&desc=BUILDING%20DIGITAL%20WORLDS%20IN%20PUBLIC&descSize=17&descAlignY=67&descColor=8fe3d0" alt="Sayed Sadiq header" />
 </p>
 
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&center=true&vCenter=true&width=780&height=60&lines=🚀+Creative+Developer+•+Full-Stack+Engineer+•+UI/UX+Thinker;Turning+ideas+into+immersive+digital+experiences.;👨‍💻+Designing+interfaces+with+logic,+motion,+and+character" />
+  <a href="https://sadiq-website.vercel.app/">PORTFOLIO</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/SayedSadiq45">GITHUB</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sayed-sadiq45">LINKEDIN</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:sayedmohdsadiq.786@gmail.com">CONTACT</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&center=true&vCenter=true&width=780&height=55&color=8FE3D0&background=07131A00&lines=FRONTEND+ENGINEER+%2F%2F+VISUAL+BUILDER;I+SHIP+THE+IDEA+BEHIND+THE+INTERFACE.;CODE+WITH+MOTION.+PRODUCTS+WITH+CHARACTER." alt="Animated introduction" />
 </p>
 
 <div align="center">
-  🚀 <strong>Creative Developer • Full-Stack Engineer • UI/UX Thinker</strong><br/>
-  <em>“I build digital experiences where engineering becomes expression.”</em>
+  <strong>Technical founder · Web development intern at ApexPlanet · HTML / CSS / JavaScript enthusiast</strong><br/>
+  <sub>Small, useful work over vague claims. Every experiment is a signal.</sub>
 </div>
 
 ---
 
 <div align="center">
-
-  <!-- Featured visual -->
-  <img
-    src="./my-video.gif"
-    width="250"
-    alt="Sayed Sadiq featured visual"
-  />
-
-  &nbsp;&nbsp;&nbsp;
-
-  <strong>Building thoughtful interfaces, expressive worlds, and useful experiments.</strong>
-
+  <img src="./my-video.gif" width="300" alt="Sayed Sadiq featured visual" />
 </div>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>32</strong><br/><sub>PUBLIC BUILDS</sub></td>
+    <td align="center"><strong>8</strong><br/><sub>STARS OF PROOF</sub></td>
+    <td align="center"><strong>146</strong><br/><sub>CONTRIBUTIONS</sub></td>
+    <td align="center"><strong>∞</strong><br/><sub>IDEAS IN QUEUE</sub></td>
+  </tr>
+</table>
 
 ---
 
-# 💫 About Me
+# 01 / THE POINT OF VIEW
 
-I am **Sayed Sadiq**, a developer who enjoys working at the intersection of software engineering, visual design, and interactive storytelling. I care about the details that make a product feel memorable: a clear idea, a considered interface, responsive motion, and code that can carry the vision.
+I am **Sayed Sadiq**, a developer working where software engineering, visual design, and interactive storytelling overlap. I care about the details that make a product feel memorable: a clear idea, a considered interface, responsive motion, and code that can carry the vision.
 
 My work moves between full-stack applications, Web3 experiments, creative frontend engineering, and immersive themed websites. I learn by building, refine by testing, and treat every project as a chance to make the web more expressive.
 
-🔭 **Currently Exploring**
+### CURRENTLY IN THE LAB
 
 - 🛠️ **Tech Labs Hub – Web3 Tools & Experiments**  
   ➤ https://tech-labs-hub.vercel.app/web3
@@ -58,9 +64,9 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-# 🌌 Featured Digital Worlds
+# 02 / LIVE DIGITAL WORLDS
 
-> A collection of live experiments in character, atmosphere, 3D presentation, and frontend craft.
+> Six live experiments in character, atmosphere, 3D presentation, and frontend craft.
 
 | Project | What it explores | Live experience |
 |:--|:--|:--:|
@@ -71,7 +77,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 | **Minato** | A fast, focused character showcase shaped by speed and precision. | [Visit](https://minato-sayed-sadiq.vercel.app/) |
 | **JJK: Sukuna** | A dark, high-energy visual study of presence, tension, and interface composition. | [Visit](https://jjk-sakuna-sayed-sadiq.vercel.app/) |
 
-### What these builds represent
+### THE BUILDING BLOCKS
 
 - **Inventive frontend engineering:** expressive layouts, responsive systems, and purposeful motion.
 - **Visual intelligence:** translating a character or mood into hierarchy, color, pacing, and interaction.
@@ -80,48 +86,49 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-👥 **Looking to Collaborate On**
-
-- Web3 protocols, dApps, and developer tools
-- Next.js / React frontend systems with strong visual direction
-- Interactive 3D experiences and creative technology
-- Hackathons, ambitious prototypes, and ideas worth shipping
-
----
-
-💛 **I Can Help With**
-
-- Product-minded frontend architecture
-- Web3 UX and modern interface systems
-- Interactive storytelling and visual prototyping
-- CI/CD pipelines and frontend performance
-
----
-
-🌱 **Currently Learning**
-
-- Solidity, smart contracts, and decentralized architecture
-- Advanced React patterns and Next.js App Router
-- Three.js, WebGL, and real-time interaction
-- Ethers.js / Web3.js and Web3 deployment strategies
-- Scalable state management and frontend performance
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / OPEN TO</h3>
+      <ul>
+        <li>Web3 protocols, dApps, and developer tools</li>
+        <li>Next.js / React systems with a strong visual direction</li>
+        <li>Interactive 3D experiences and creative technology</li>
+        <li>Hackathons and ambitious prototypes</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / I BRING</h3>
+      <ul>
+        <li>Product-minded frontend architecture</li>
+        <li>Web3 UX and modern interface systems</li>
+        <li>Interactive storytelling and visual prototyping</li>
+        <li>CI/CD and frontend performance thinking</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-💬 **Ask Me About**
+### 05 / CURRENTLY LOADING
 
-- Full-stack dApp development
-- Web3 developer journey
-- Dev tools / workflows
-- My caffeine-powered coding rituals ☕
+`SOLIDITY` `SMART CONTRACTS` `NEXT.JS APP ROUTER` `THREE.JS` `WEBGL` `ETHERS.JS` `WEB3.JS` `PERFORMANCE`
+
+<p align="center">
+  <em>Learning in public. Shipping before the idea gets comfortable.</em>
+</p>
 
 ---
 
-⚡ **Fun Facts**
+# 06 / BUILD LOG
 
-- Built a blockchain To-Do App and actually used it
-- I use fictional worlds to practice real product thinking
-- I blend UI artistry with backend logic
+| Signal | What it means |
+|:--|:--|
+| `01` | Built a blockchain To-Do App and actually used it. |
+| `02` | Fictional worlds are my practice ground for real product thinking. |
+| `03` | I blend UI artistry with backend logic. |
+| `04` | The best ideas leave the sketchbook and become links. |
 
 ---
 
@@ -135,20 +142,20 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-# 🌐 Socials — Neon Badges
+# 07 / START A CONVERSATION
 
 <p align="center">
 
   <a href="https://www.linkedin.com/in/sayed-sadiq45">
     <img
-      src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB"
+      src="https://img.shields.io/badge/LinkedIn-07131A?style=for-the-badge&logo=linkedin&logoColor=8FE3D0"
       alt="LinkedIn"
     />
   </a>
 
   <a href="mailto:sayedmohdsadiq.786@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB"
+      src="https://img.shields.io/badge/Email-07131A?style=for-the-badge&logo=gmail&logoColor=F05A47"
       alt="Email"
     />
   </a>
@@ -171,7 +178,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-# 💻 Tech Stack
+# 08 / THE TOOLKIT
 
 <p align="center">
 
@@ -191,7 +198,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-# 📊 GitHub Stats
+# 09 / THE SIGNAL
 
 <p align="center">
 
@@ -199,7 +206,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=SayedSadiq45&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296"
+      srcset="https://github-readme-stats.vercel.app/api?username=SayedSadiq45&show_icons=true&theme=dark&title_color=8FE3D0&icon_color=F05A47&text_color=F7F0DF&bg_color=07131A&border_color=2B6670"
     />
 
     <img
@@ -215,7 +222,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://nirzak-streak-stats.vercel.app/?user=SayedSadiq45&theme=radical&background=0,000000,091519&ring=3a8296&fire=61DAFB&currStreakLabel=61DAFB"
+      srcset="https://nirzak-streak-stats.vercel.app/?user=SayedSadiq45&theme=dark&background=07131A&ring=F05A47&fire=8FE3D0&currStreakLabel=8FE3D0"
     />
 
     <img
@@ -231,7 +238,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedSadiq45&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedSadiq45&layout=compact&theme=dark&title_color=8FE3D0&text_color=F7F0DF&bg_color=07131A&border_color=2B6670"
     />
 
     <img
@@ -245,12 +252,12 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-# 🏆 GitHub Trophies
+# 10 / TROPHIES FROM THE FIELD
 
 <div align="center">
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=SayedSadiq45&theme=radical&margin-w=8"
+    src="https://github-profile-trophy.vercel.app/?username=SayedSadiq45&theme=onedark&margin-w=8&no-frame=true"
     alt="GitHub Trophies"
   />
 
@@ -258,12 +265,12 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-# ✍️ Random Dev Quote
+# 11 / ONE MORE THOUGHT
 
 <div align="center">
 
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
     alt="Random Dev Quote"
   />
 
@@ -271,7 +278,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-# 🔝 Top Contributed Repos
+# 12 / MORE SIGNAL
 
 <div align="center">
 
@@ -300,7 +307,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 <p align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting!%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:f05a47,45:123f4a,100:07131a&height=120&section=footer&text=KEEP%20BUILDING.%20KEEP%20SHIPPING.&fontSize=23&fontColor=f7f0df&animation=twinkling"
     alt="Footer"
   />
 
