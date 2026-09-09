@@ -24,7 +24,7 @@
   <!-- Featured visual -->
   <img
     src="./my-video.gif"
-    width="250"
+    width="250" height="60"
     alt="Sayed Sadiq featured visual"
   />
 
