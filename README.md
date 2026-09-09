@@ -62,14 +62,21 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 > A collection of live experiments in character, atmosphere, 3D presentation, and frontend craft.
 
-| Project | What it explores | Live experience |
-|:--|:--|:--:|
-| **Naruto Sage Mode** | A cinematic themed interface inspired by transformation, focus, and power. | [Visit](https://narutosagemode.vercel.app/) |
-| **Zoro: King of Hell** | A bold character experience built around intensity, motion, and visual identity. | [Visit](https://zoro-king-of-hell-pied.vercel.app/) |
-| **Itachi** | An atmospheric tribute that turns storytelling into an interactive web composition. | [Visit](https://itachi-phi.vercel.app/) |
-| **One Piece 3D** | An immersive 3D-inspired exploration of world-building on the web. | [Visit](https://one-piece-3-d-website.vercel.app/) |
-| **Minato** | A fast, focused character showcase shaped by speed and precision. | [Visit](https://minato-sayed-sadiq.vercel.app/) |
-| **JJK: Sukuna** | A dark, high-energy visual study of presence, tension, and interface composition. | [Visit](https://jjk-sakuna-sayed-sadiq.vercel.app/) |
+### What these builds represent
+
+- **Inventive frontend engineering:** expressive layouts, responsive systems, and purposeful motion.
+- **Visual intelligence:** translating a character or mood into hierarchy, color, pacing, and interaction.
+- **Technical curiosity:** exploring React, Next.js, Three.js, WebGL, and modern deployment workflows.
+- **A builder's mindset:** shipping ideas as working experiences instead of leaving them as sketches.
+
+| Preview | Project | What it explores | Live experience |
+|:--:|:--|:--|:--:|
+| <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=200&q=80" width="80" height="60" alt="Naruto Sage Mode" /> | **Naruto Sage Mode** | A cinematic themed interface inspired by transformation, focus, and power. | [Visit](https://narutosagemode.vercel.app/) |
+| <img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=200&q=80" width="80" height="60" alt="Zoro: King of Hell" /> | **Zoro: King of Hell** | A bold character experience built around intensity, motion, and visual identity. | [Visit](https://zoro-king-of-hell-pied.vercel.app/) |
+| <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=200&q=80" width="80" height="60" alt="Itachi" /> | **Itachi** | An atmospheric tribute that turns storytelling into an interactive web composition. | [Visit](https://itachi-phi.vercel.app/) |
+| <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=200&q=80" width="80" height="60" alt="One Piece 3D" /> | **One Piece 3D** | An immersive 3D-inspired exploration of world-building on the web. | [Visit](https://one-piece-3-d-website.vercel.app/) |
+| <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=200&q=80" width="80" height="60" alt="Minato" /> | **Minato** | A fast, focused character showcase shaped by speed and precision. | [Visit](https://minato-sayed-sadiq.vercel.app/) |
+| <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=200&q=80" width="80" height="60" alt="JJK: Sukuna" /> | **JJK: Sukuna** | A dark, high-energy visual study of presence, tension, and interface composition. | [Visit](https://jjk-sakuna-sayed-sadiq.vercel.app/) |
 
 ### What these builds represent
 
