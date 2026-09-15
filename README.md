@@ -184,7 +184,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 <p align="center">
 
   <img
-    src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2006_13_43%20PM.png?raw=true" height="200"
+    src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2006_13_43%20PM.png?raw=true" width="500" height="200"
     alt="Footer"
   />
 
