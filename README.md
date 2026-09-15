@@ -1,17 +1,4 @@
-<img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2002_59_56%20PM.png?raw=true" /><!-- =========================
-    Sayed Sadiq — Creative Technology Portfolio
-     ========================= -->
-
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sayed%20Sadiq&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Creative%20Developer%20|%20Full-Stack%20Engineer%20|%20Digital%20Experience%20Builder&descSize=25&descAlignY=85&section=header" />
-</p>
-
-<div align="center">
-  🚀 <strong>Creative Developer • Full-Stack Engineer • UI/UX Thinker</strong><br/>
-  <em>“I build digital experiences where engineering becomes expression.”</em>
-</div>
-
+<img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2002_59_56%20PM.png?raw=true" /> <img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2003_33_20%20PM.png?raw=true" />
 ---
 
 <div align="center">
