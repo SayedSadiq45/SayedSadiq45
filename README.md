@@ -83,16 +83,6 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-<div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"
-    width="450"
-    alt="Coding Animation"
-  />
-</div>
-
----
-
 # 🌐 Socials — Neon Badges
 
 <p align="center">
