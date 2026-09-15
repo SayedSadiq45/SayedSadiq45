@@ -257,7 +257,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 <div align="center">
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=SayedSadiq45&theme=radical&margin-w=8"
+    src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/achievements.png?raw=true"
     alt="GitHub Trophies"
   />
 
