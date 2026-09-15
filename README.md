@@ -53,13 +53,6 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 | <img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/minato.png" width="80" height="60" alt="Minato" /> | **Minato** | A fast, focused character showcase shaped by speed and precision. | [Visit](https://minato-sayed-sadiq.vercel.app/) |
 | <img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/jjk%20sakuna.png" width="80" height="60" alt="JJK: Sukuna" /> | **JJK: Sukuna** | A dark, high-energy visual study of presence, tension, and interface composition. | [Visit](https://jjk-sakuna-sayed-sadiq.vercel.app/) |
 
-### What these builds represent
-
-- **Inventive frontend engineering:** expressive layouts, responsive systems, and purposeful motion.
-- **Visual intelligence:** translating a character or mood into hierarchy, color, pacing, and interaction.
-- **Technical curiosity:** exploring React, Next.js, Three.js, WebGL, and modern deployment workflows.
-- **A builder's mindset:** shipping ideas as working experiences instead of leaving them as sketches.
-
 ---
 
 👥 **Looking to Collaborate On**
@@ -87,23 +80,6 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 - Three.js, WebGL, and real-time interaction
 - Ethers.js / Web3.js and Web3 deployment strategies
 - Scalable state management and frontend performance
-
----
-
-💬 **Ask Me About**
-
-- Full-stack dApp development
-- Web3 developer journey
-- Dev tools / workflows
-- My caffeine-powered coding rituals ☕
-
----
-
-⚡ **Fun Facts**
-
-- Built a blockchain To-Do App and actually used it
-- I use fictional worlds to practice real product thinking
-- I blend UI artistry with backend logic
 
 ---
 
