@@ -283,7 +283,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 <div align="center">
 
   <img
-    src="https://github-contributor-stats.vercel.app/api?username=SayedSadiq45&limit=5&theme=dark&combine_all_yearly_contributions=true"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     alt="Top Contributed Repositories"
   />
 
