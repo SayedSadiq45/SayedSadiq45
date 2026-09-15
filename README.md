@@ -153,7 +153,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-# 🏆 GitHub Trophies
+# <img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2005_44_23%20PM.png?raw=true" width="70" height="70" /> GitHub Trophies
 
 <div align="center">
 
