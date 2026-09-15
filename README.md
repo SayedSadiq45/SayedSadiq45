@@ -11,7 +11,7 @@
 
 ---
 
-# 💫 About Me <img src="https://github.com/yuhongherald/Anime-stickers-with-Stable-Diffusion/blob/main/img/aventurine%20cool.png" width="100" height="100" />
+# 💫 About Me <img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2005_55_07%20PM.png?raw=true" width="100" height="100" />
 
 I am **Sayed Sadiq**, a developer who enjoys working at the intersection of software engineering, visual design, and interactive storytelling. I care about the details that make a product feel memorable: a clear idea, a considered interface, responsive motion, and code that can carry the vision.
 
