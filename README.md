@@ -4,14 +4,7 @@
 <div align="center">
 
   <!-- Featured visual -->
-  <img
-    src="./my-video.gif"
-    width="250" height="350"
-    alt="Sayed Sadiq featured visual"
-  />
-
-  &nbsp;&nbsp;&nbsp;
-
+<img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2004_15_24%20PM.png?raw=true" />
   <strong>Building thoughtful interfaces, expressive worlds, and useful experiments.</strong>
 
 </div>
