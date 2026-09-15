@@ -184,7 +184,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 <p align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting!%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling"
+    src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2006_13_43%20PM.png?raw=true"
     alt="Footer"
   />
 
