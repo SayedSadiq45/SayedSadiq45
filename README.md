@@ -2,15 +2,17 @@
     Sayed Sadiq — Creative Technology Portfolio
      ========================= -->
 
+```html
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sayed%20Sadiq&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Creative%20Developer%20|%20Full-Stack%20Engineer%20|%20Digital%20Experience%20Builder&descSize=25&descAlignY=85&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hey,%20I'm%20Sayed%20Sadiq&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Creative%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Digital%20Experience%20Architect&descSize=23&descAlignY=85&section=header" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&center=true&vCenter=true&width=780&height=60&lines=🚀+Creative+Developer+•+Full-Stack+Engineer+•+UI/UX+Thinker;Turning+ideas+into+immersive+digital+experiences.;👨‍💻+Designing+interfaces+with+logic,+motion,+and+character" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&center=true&vCenter=true&width=850&height=70&lines=🚀+Building+the+future%2C+one+line+of+code+at+a+time.;💻+Creative+Developer+%7C+Full-Stack+Engineer;🎨+Crafting+immersive+UI%2FUX+experiences+with+code;⚡+Turning+ideas+into+interactive+digital+worlds.;🌌+Where+logic+meets+creativity%2C+innovation+comes+alive." />
 </p>
+```
 
 <div align="center">
   🚀 <strong>Creative Developer • Full-Stack Engineer • UI/UX Thinker</strong><br/>
