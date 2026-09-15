@@ -7,11 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sayed%20Sadiq&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Creative%20Developer%20|%20Full-Stack%20Engineer%20|%20Digital%20Experience%20Builder&descSize=25&descAlignY=85&section=header" />
 </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&center=true&vCenter=true&width=780&height=60&lines=🚀+Creative+Developer+•+Full-Stack+Engineer+•+UI/UX+Thinker;Turning+ideas+into+immersive+digital+experiences.;👨‍💻+Designing+interfaces+with+logic,+motion,+and+character" />
-</p>
-
 <div align="center">
   🚀 <strong>Creative Developer • Full-Stack Engineer • UI/UX Thinker</strong><br/>
   <em>“I build digital experiences where engineering becomes expression.”</em>
