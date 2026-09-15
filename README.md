@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- Featured visual -->
-<img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/WhatsApp%20Image%202026-09-15%20at%205.00.28%20PM.jpeg?raw=true" />
+<img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2005_05_28%20PM.png?raw=true" />
   <strong>Building thoughtful interfaces, expressive worlds, and useful experiments.</strong>
 
 </div>
