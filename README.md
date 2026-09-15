@@ -160,26 +160,6 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 
 ---
 
-# 💻 Tech Stack
-
-<p align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,threejs,webgl,solidity,php,c,cpp,cs,java,python"
-    alt="Frontend and Programming Skills"
-  />
-
-  <br/>
-
-  <img
-    src="https://skillicons.dev/icons?i=aws,vercel,render,sqlite,mysql,postgres,git,github,linux,vscode,figma,ps,ai,ae"
-    alt="Tools and Technologies"
-  />
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
