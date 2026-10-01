@@ -172,7 +172,7 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 <p align="center">
 
   <img
-    src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/Glossy%20Anime%20Thanks%20For%20Visiting%20Banner.png?raw=true" width="800" height="250"
+    src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/Glossy%20Anime%20Thanks%20For%20Visiting%20Banner.png?raw=true" width="600" height="250"
     alt="Footer"
   />
 
