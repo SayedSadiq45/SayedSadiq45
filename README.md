@@ -129,20 +129,6 @@ My work moves between full-stack applications, Web3 experiments, creative fronte
 </div>
 
 ---
-
-# ✍️ Random Dev Quote
-
-<div align="center">
-
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Random Dev Quote"
-  />
-
-</div>
-
----
-
 # 🔝 Top Contributed Repos
 
 <div align="center">
