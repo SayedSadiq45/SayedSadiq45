@@ -1,4 +1,4 @@
-<img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/Neon%20Esports%20Glass%20Banner.png?raw=true" /> <img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/ChatGPT%20Image%20Sep%2015,%202026,%2004_12_14%20PM.png?raw=true" />
+<img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/Neon%20Esports%20Glass%20Banner.png?raw=true" /> <img src="https://github.com/SayedSadiq45/SayedSadiq45/blob/main/2nd%20Image.png" />
 ---
 
 <div align="center">
